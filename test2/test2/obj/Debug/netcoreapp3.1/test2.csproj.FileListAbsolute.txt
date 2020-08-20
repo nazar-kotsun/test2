@@ -1,0 +1,12 @@
+/Users/nazarkot/RiderProjects/test2/test2/bin/Debug/netcoreapp3.1/test2.deps.json
+/Users/nazarkot/RiderProjects/test2/test2/bin/Debug/netcoreapp3.1/test2.runtimeconfig.json
+/Users/nazarkot/RiderProjects/test2/test2/bin/Debug/netcoreapp3.1/test2.runtimeconfig.dev.json
+/Users/nazarkot/RiderProjects/test2/test2/bin/Debug/netcoreapp3.1/test2.dll
+/Users/nazarkot/RiderProjects/test2/test2/bin/Debug/netcoreapp3.1/test2.pdb
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.csprojAssemblyReference.cache
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.AssemblyInfoInputs.cache
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.AssemblyInfo.cs
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.csproj.CoreCompileInputs.cache
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.dll
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.pdb
+/Users/nazarkot/RiderProjects/test2/test2/obj/Debug/netcoreapp3.1/test2.genruntimeconfig.cache
